@@ -6,7 +6,6 @@ import json
 
 JSON_NAME = sys.argv[1]
 IMG_PATH = sys.argv[2]
-MAX_IMAGE_INDEX = 0
 
 with open(JSON_NAME, 'r') as f:
     dictionary = json.load(f)
