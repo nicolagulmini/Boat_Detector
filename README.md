@@ -5,7 +5,7 @@ in an image and also to distinguish the case in which there is not any boat. To 
 method is a cascade of weak classifiers, trained on haar features. Once trained different models, the
 obtained results were compared.
 
-Loock at the Project Report for more information!
+Look at the Project Report for more information!
 
 Some results with photos taken from Google:
 ![boat1](https://user-images.githubusercontent.com/62892813/124780480-ed7a8f80-df42-11eb-8a67-786e3c03d76a.jpg)
